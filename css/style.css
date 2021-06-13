@@ -1,0 +1,147 @@
+body{
+    background-color: #010e1e!important;
+    color: white;
+    margin: 0;
+    padding: 0;
+    margin-top: 187px;
+    background-image: url("../image/blob\ \(6\).svg"); 
+    background-repeat: no-repeat;
+    background-size: 635px;
+    background-position: 127% -9%;
+}
+
+
+
+.navbar{
+    padding: 15px;
+    background-color: transparent;
+}
+.mydiv{
+    background-color:  #010e1e;
+
+}
+.nav-item{
+    padding-left: .7rem!important;
+    padding-right: .7rem!important;
+    
+}
+.nav-link{
+    color: white!important;
+    font-weight:600;
+    
+}
+.nav-link a{
+    line-height: 30px;
+}
+.nav-link:hover{
+    border-bottom: 2px solid yellow;
+    color: rgb(157, 157, 255)!important;
+   
+}
+.navbar .nav-item .active{
+    padding-left: .7rem!important;
+    padding-right: .7rem!important;
+    border-bottom: 2px solid yellow;
+    color: rgb(157, 157, 255)!important;
+}
+.bann{
+    height: 100%;
+}
+#banner{
+    /* height: 100%; */
+    margin-bottom: 20rem;
+    position: relative;
+}
+#banner a{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+#banner p{
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+#banner .progress-bar{
+    background-color: red;
+}
+#banner span{
+    background-color: red;
+    padding: 7px;
+    border-radius: 10px;
+    margin-right: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#clock{
+    padding: 50px 0;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(250, 248, 248, 0.2), 0 6px 20px 0 rgba(255, 112, 112, 0.19);
+    height: auto;
+    
+    
+}
+#clock span{
+    color: red;
+    background-color: transparent;
+}
+#des{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10rem;
+   
+}
+#des img{
+    border-radius: 15px;
+}
+#different a{
+    color: red;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+#different .box{
+    background-color: white;
+    color: black;
+    padding: 3rem;
+    border-radius: 10px;
+}
+.box h1{
+    font-size: 1.5rem;
+}
+
+#expert{
+    background-color: white!important;
+    color: black!important;
+    margin-top: -2px;
+    margin-bottom: -1px;
+}
+#document{
+    background-color: white!important;
+    color: black!important;
+    padding-top: 10rem;
+    
+}
+
+.cardnew{
+    width: 350px;
+    margin: auto;
+    height: 450px;
+    border-radius: 10px;
+    border-top-left-radius: 125px;
+    box-shadow: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: -190px;
+    background-color: white;
+}
+#roadmap{
+    background-color: #010e1e!important;
+    color: white;
+    margin-top: -2px;
+    margin-bottom: -1px;
+    padding-top: 7rem;
+} 
+
